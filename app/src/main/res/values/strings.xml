@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Na Terenu</string>
+
+    <string name="nav_title_rang_lista">Rang lista</string>
+    <string name="nav_title_tereni">Tereni</string>
+    <string name="nav_title_prijatelji">Prijatelji</string>
+    <string name="nav_title_termini">Termini</string>
+    <string name="nav_screen_rang_lista">rang_lista</string>
+    <string name="nav_screen_tereni">tereni</string>
+    <string name="nav_screen_prijatelji">prijatelji</string>
+    <string name="nav_screen_termini">termini</string>
 </resources>
